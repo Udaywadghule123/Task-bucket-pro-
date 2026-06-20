@@ -21,7 +21,7 @@ A responsive Task Bucket web application made by me built with HTML, CSS, and Ja
 </ul>
 
 🎯 Purpose - <br> <br>
-This project was created to practice front-end web development concepts including:
+This project was created to practice front-end web development concepts includings:
 <ul>
   <li> DOM Manipulation</li>
   <li>Event Handling</li>
